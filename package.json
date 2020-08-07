@@ -1,0 +1,35 @@
+{
+  "name": "magic-player",
+  "version": "0.1.0",
+  "private": false,
+  "main": "dist/magic-player.umd.min.js",
+  "author": {
+    "name": "huaixv",
+    "github":"https://github.com/Dusksnowing/Magic-Player",
+    "blog": "huaixv.top"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lib":"vue-cli-service build --target lib packages/index.js"
+  },
+  "dependencies": {
+    "animate.css": "^3.5.1",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
