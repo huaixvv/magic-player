@@ -1,8 +1,13 @@
 ## magic-player介绍：
 
-​        `magic-player` 基于Vue2，是一个极其简单的，但功能尚可的一个小巧且精致的音乐播放器。支持用户传入歌单来进行音乐的播放，使用简单。
+​        `magic-player` 基于Vue2.x，是一个极其简单的，但功能尚可的一个小巧且精致的音乐播放器。支持用户传入歌单来进行音乐的播放，使用简单。
 
 ---
+
+#### [演示demo](http://121.36.41.153) 
+
+#### [github](https://github.com/Dusksnowing/Magic-Player) 
+
 
 #### 安装引入
 
@@ -65,7 +70,8 @@ Vue.use(MagicPlayer)
       singer: '周深',
       mp3url: 'http://m8.music.126.net/20200805145247/f6a1b877b33cd7864bc9c7b902dddbbf/ymusic/025e/0208/5559/544a7156375b2bdb1cebb3987a81d29d.mp3'
 }]
-ps: 由于此mp3url是直接获取网易云的地址，所以过渡访问会导致地址请求403，而无法正常播放。只需自己传入符合要求的mp3url即可。
+// --------------------
+ps: 由于此mp3url是直接获取网易云的地址，所以访问过多会导致url地址请求403，而无法正常播放。只需自己传入符合要求的mp3url即可。
 ```
 
 
