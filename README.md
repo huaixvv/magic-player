@@ -4,7 +4,7 @@
 
 ---
 
-#### [演示demo](http://121.36.41.153) 
+#### [演示demo](http://121.36.41.153:8808/) 
 
 #### [github](https://github.com/Dusksnowing/Magic-Player) 
 
