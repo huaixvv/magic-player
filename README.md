@@ -6,7 +6,7 @@
 
 #### [演示demo](http://121.36.41.153:8808/) 
 
-#### [github](https://github.com/Dusksnowing/Magic-Player) 
+#### [github](https://github.com/huaixvv/magic-player) 
 
 
 #### 安装引入
